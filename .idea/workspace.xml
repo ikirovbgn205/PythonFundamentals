@@ -4,20 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41aeea4f-1a4a-4523-b1da-ccb683c08590" name="Changes" comment="exam preparation">
-      <change afterPath="$PROJECT_DIR$/exam_prep/shoot_for_the_win.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regular_exam/quest_in_the_woods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regular_exam/school_library.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regular_exam/space_travel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonFundamentals.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_prep/numbers.py" beforeDir="false" />
+    <list default="true" id="41aeea4f-1a4a-4523-b1da-ccb683c08590" name="Changes" comment="exam">
+      <change afterPath="$PROJECT_DIR$/class_l/circle_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_l/ex_comment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_l/ex_email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_l/party.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_l/zoo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,122 +63,150 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.absolute_values.executor&quot;: &quot;Run&quot;,
-    &quot;Python.add_and_subtract.executor&quot;: &quot;Run&quot;,
-    &quot;Python.anonymous_threat.executor&quot;: &quot;Run&quot;,
-    &quot;Python.array_modifier.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.bread_factory.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calculate_rectangle_area.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calculations.executor&quot;: &quot;Run&quot;,
-    &quot;Python.centuries_to_minutes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.characters_in_range.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chars_to_string.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chat_codes.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.christmas_spirit.executor&quot;: &quot;Run&quot;,
-    &quot;Python.convert_meters_to_kilometers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.counter_strike.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.counter_strike__.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.courses.executor&quot;: &quot;Run&quot;,
-    &quot;Python.decipher_this.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.destination_mapper.executor&quot;: &quot;Run&quot;,
-    &quot;Python.double_char.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.drink_something.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.easter_bread.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.easter_gifts.executor&quot;: &quot;Run&quot;,
-    &quot;Python.electron_distribution.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.elevator.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.even_numbers.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.ex.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.factorial_division.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.faro_shuffle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.find_the_capitals.executor&quot;: &quot;Run&quot;,
-    &quot;Python.find_the_largest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.football_cards.executor&quot;: &quot;Run&quot;,
-    &quot;Python.gladiator_expenses.executor&quot;: &quot;Run&quot;,
-    &quot;Python.grades.executor&quot;: &quot;Run&quot;,
-    &quot;Python.group_of_10_s.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.hello_france.executor&quot;: &quot;Run&quot;,
-    &quot;Python.how_much_coffee_do_you_need.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.integer_operations.executor&quot;: &quot;Run&quot;,
-    &quot;Python.invert_values.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.jenny_secret_message.executor&quot;: &quot;Run&quot;,
-    &quot;Python.largest_of_three_numbers.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.list_statistics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.loading_bar.executor&quot;: &quot;Run&quot;,
-    &quot;Python.maximum_multiple.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.memory_game.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.min_max_and_sum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.moving_target.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.multiples_list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mutate_strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.next_happy_year.executor&quot;: &quot;Run&quot;,
-    &quot;Python.next_version.executor&quot;: &quot;Run&quot;,
-    &quot;Python.no_vowels.executor&quot;: &quot;Run&quot;,
-    &quot;Python.number_beggars.executor&quot;: &quot;Run&quot;,
-    &quot;Python.number_between_1_100.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.number_classification.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.number_definer.executor&quot;: &quot;Run&quot;,
-    &quot;Python.numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.numbers_filter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.odd_and_even_sum.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.office_chairs.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.orders.executor&quot;: &quot;Run&quot;,
-    &quot;Python.palindrome_integers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.palindrome_strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.party_profit.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.password_validator.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.patterns.executor&quot;: &quot;Run&quot;,
-    &quot;Python.perfect_number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pokemon_dont_go.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.pounds_to_dollars.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print_part_of_the_ascii_table.executor&quot;: &quot;Run&quot;,
-    &quot;Python.quest_in_the_woods.executor&quot;: &quot;Run&quot;,
-    &quot;Python.registration.executor&quot;: &quot;Run&quot;,
-    &quot;Python.repeat_string.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rounding.executor&quot;: &quot;Run&quot;,
-    &quot;Python.school_library.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.search.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.seize_the_fire.executor&quot;: &quot;Run&quot;,
-    &quot;Python.shoot_for_the_win.executor&quot;: &quot;Run&quot;,
-    &quot;Python.shopping.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.smallest_of_three_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.snowballs.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.softuni_course_planning.executor&quot;: &quot;Run&quot;,
-    &quot;Python.softuni_reception.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sorted.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sorting_hat.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.sorting_names.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.space_travel.executor&quot;: &quot;Run&quot;,
-    &quot;Python.special_numbers.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.strange_zoo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.string_pureness.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sum_of_chars.executor&quot;: &quot;Run&quot;,
-    &quot;Python.survival_of_the_biggest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.the_lift.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.the_office.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.to_do_list.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.trains.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.treasure_hunt.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.triples_of_latin_letters.executor&quot;: &quot;Run&quot;,
-    &quot;Python.water_overflow.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.which_are_in.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.word_filter.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.word_reverse.executor&quot;: &quot;Run&quot;,
-    &quot;Python.сххдасхда.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ikirovbgn/PycharmProjects/PythonFundamentals&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.absolute_values.executor": "Run",
+    "Python.add_and_subtract.executor": "Run",
+    "Python.anonymous_threat.executor": "Run",
+    "Python.array_modifier.executor": "Debug",
+    "Python.bread_factory.executor": "Run",
+    "Python.calculate_rectangle_area.executor": "Run",
+    "Python.calculations.executor": "Run",
+    "Python.centuries_to_minutes.executor": "Run",
+    "Python.characters_in_range.executor": "Run",
+    "Python.chars_to_string.executor": "Run",
+    "Python.chat_codes.executor": "Debug",
+    "Python.christmas_spirit.executor": "Run",
+    "Python.circle_ex.executor": "Run",
+    "Python.comment.executor": "Run",
+    "Python.convert_meters_to_kilometers.executor": "Run",
+    "Python.counter_strike.executor": "Debug",
+    "Python.counter_strike__.executor": "Debug",
+    "Python.courses.executor": "Run",
+    "Python.decipher_this.executor": "Debug",
+    "Python.destination_mapper.executor": "Run",
+    "Python.double_char.executor": "Debug",
+    "Python.drink_something.executor": "Debug",
+    "Python.easter_bread.executor": "Debug",
+    "Python.easter_gifts.executor": "Run",
+    "Python.electron_distribution.executor": "Debug",
+    "Python.elevator.executor": "Debug",
+    "Python.email.executor": "Debug",
+    "Python.even_numbers.executor": "Debug",
+    "Python.ex.executor": "Debug",
+    "Python.ex_email.executor": "Run",
+    "Python.factorial_division.executor": "Debug",
+    "Python.faro_shuffle.executor": "Run",
+    "Python.find_the_capitals.executor": "Run",
+    "Python.find_the_largest.executor": "Run",
+    "Python.football_cards.executor": "Run",
+    "Python.gladiator_expenses.executor": "Run",
+    "Python.grades.executor": "Run",
+    "Python.group_of_10_s.executor": "Debug",
+    "Python.hello_france.executor": "Run",
+    "Python.how_much_coffee_do_you_need.executor": "Debug",
+    "Python.integer_operations.executor": "Run",
+    "Python.invert_values.executor": "Debug",
+    "Python.jenny_secret_message.executor": "Run",
+    "Python.largest_of_three_numbers.executor": "Debug",
+    "Python.list_statistics.executor": "Run",
+    "Python.loading_bar.executor": "Run",
+    "Python.maximum_multiple.executor": "Debug",
+    "Python.memory_game.executor": "Debug",
+    "Python.min_max_and_sum.executor": "Run",
+    "Python.moving_target.executor": "Debug",
+    "Python.multiples_list.executor": "Run",
+    "Python.mutate_strings.executor": "Run",
+    "Python.next_happy_year.executor": "Run",
+    "Python.next_version.executor": "Run",
+    "Python.no_vowels.executor": "Run",
+    "Python.number_beggars.executor": "Run",
+    "Python.number_between_1_100.executor": "Debug",
+    "Python.number_classification.executor": "Debug",
+    "Python.number_definer.executor": "Run",
+    "Python.numbers.executor": "Run",
+    "Python.numbers_filter.executor": "Run",
+    "Python.odd_and_even_sum.executor": "Debug",
+    "Python.office_chairs.executor": "Debug",
+    "Python.orders.executor": "Run",
+    "Python.palindrome_integers.executor": "Run",
+    "Python.palindrome_strings.executor": "Run",
+    "Python.party.executor": "Debug",
+    "Python.party_profit.executor": "Debug",
+    "Python.password_validator.executor": "Debug",
+    "Python.patterns.executor": "Run",
+    "Python.perfect_number.executor": "Run",
+    "Python.pokemon_dont_go.executor": "Debug",
+    "Python.pounds_to_dollars.executor": "Run",
+    "Python.print_part_of_the_ascii_table.executor": "Run",
+    "Python.quest_in_the_woods.executor": "Run",
+    "Python.registration.executor": "Run",
+    "Python.repeat_string.executor": "Run",
+    "Python.rounding.executor": "Run",
+    "Python.school_library.executor": "Debug",
+    "Python.search.executor": "Debug",
+    "Python.seize_the_fire.executor": "Run",
+    "Python.shoot_for_the_win.executor": "Run",
+    "Python.shopping.executor": "Debug",
+    "Python.smallest_of_three_numbers.executor": "Run",
+    "Python.snowballs.executor": "Debug",
+    "Python.softuni_course_planning.executor": "Run",
+    "Python.softuni_reception.executor": "Run",
+    "Python.sorted.executor": "Run",
+    "Python.sorting_hat.executor": "Debug",
+    "Python.sorting_names.executor": "Debug",
+    "Python.space_travel.executor": "Run",
+    "Python.special_numbers.executor": "Debug",
+    "Python.strange_zoo.executor": "Run",
+    "Python.string_pureness.executor": "Run",
+    "Python.sum_of_chars.executor": "Run",
+    "Python.survival_of_the_biggest.executor": "Run",
+    "Python.the_lift.executor": "Debug",
+    "Python.the_office.executor": "Debug",
+    "Python.to_do_list.executor": "Debug",
+    "Python.trains.executor": "Debug",
+    "Python.treasure_hunt.executor": "Debug",
+    "Python.triples_of_latin_letters.executor": "Run",
+    "Python.water_overflow.executor": "Debug",
+    "Python.which_are_in.executor": "Debug",
+    "Python.word_filter.executor": "Debug",
+    "Python.word_reverse.executor": "Run",
+    "Python.zoo.executor": "Run",
+    "Python.сххдасхда.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/ikirovbgn/PycharmProjects/PythonFundamentals",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="PyDebuggerOptionsProvider">
     <option name="myAttachProcessFilter" value="py" />
   </component>
-  <component name="RunManager" selected="Python.space_travel">
+  <component name="RunManager" selected="Python.circle_ex">
+    <configuration name="circle_ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonFundamentals" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_l" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_l/circle_ex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="counter_strike" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PythonFundamentals" />
       <option name="ENV_FILES" value="" />
@@ -208,7 +229,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="largest_of_three_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex_comment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonFundamentals" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -217,11 +238,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_sytax" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_l" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_sytax/largest_of_three_numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_l/ex_comment.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,7 +251,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="quest_in_the_woods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex_email" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonFundamentals" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -239,11 +260,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/regular_exam" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_l" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regular_exam/quest_in_the_woods.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_l/ex_email.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -252,7 +273,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="school_library" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="party" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonFundamentals" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -261,11 +282,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/regular_exam" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_l" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regular_exam/school_library.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_l/party.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -274,7 +295,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="shoot_for_the_win" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="zoo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonFundamentals" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -283,33 +304,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_prep" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_l" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam_prep/shoot_for_the_win.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="space_travel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonFundamentals" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/regular_exam" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regular_exam/space_travel.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_l/zoo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -320,19 +319,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.counter_strike" />
-      <item itemvalue="Python.largest_of_three_numbers" />
-      <item itemvalue="Python.quest_in_the_woods" />
-      <item itemvalue="Python.school_library" />
-      <item itemvalue="Python.shoot_for_the_win" />
-      <item itemvalue="Python.space_travel" />
+      <item itemvalue="Python.circle_ex" />
+      <item itemvalue="Python.ex_email" />
+      <item itemvalue="Python.zoo" />
+      <item itemvalue="Python.ex_comment" />
+      <item itemvalue="Python.party" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.space_travel" />
-        <item itemvalue="Python.school_library" />
-        <item itemvalue="Python.quest_in_the_woods" />
-        <item itemvalue="Python.shoot_for_the_win" />
-        <item itemvalue="Python.largest_of_three_numbers" />
+        <item itemvalue="Python.circle_ex" />
+        <item itemvalue="Python.zoo" />
+        <item itemvalue="Python.ex_email" />
+        <item itemvalue="Python.party" />
+        <item itemvalue="Python.ex_comment" />
       </list>
     </recent_temporary>
   </component>
@@ -567,7 +566,23 @@
       <option name="project" value="LOCAL" />
       <updated>1760791125147</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="exam">
+      <option name="closed" value="true" />
+      <created>1760966575447</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1760966575447</updated>
+    </task>
+    <task id="LOCAL-00029" summary="exam">
+      <option name="closed" value="true" />
+      <created>1760966606553</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1760966606553</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -621,7 +636,8 @@
     <MESSAGE value="list advanced" />
     <MESSAGE value="list advanced more" />
     <MESSAGE value="exam preparation" />
-    <option name="LAST_COMMIT_MESSAGE" value="exam preparation" />
+    <MESSAGE value="exam" />
+    <option name="LAST_COMMIT_MESSAGE" value="exam" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -667,9 +683,19 @@
           <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/regular_exam/space_travel.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="54" />
+          <url>file://$PROJECT_DIR$/class_l/ex_email.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class_l/zoo.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class_l/circle_ex.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="51" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
