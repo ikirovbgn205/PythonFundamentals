@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41aeea4f-1a4a-4523-b1da-ccb683c08590" name="Changes" comment="exam" />
+    <list default="true" id="41aeea4f-1a4a-4523-b1da-ccb683c08590" name="Changes" comment="class lab">
+      <change afterPath="$PROJECT_DIR$/class_ex/articles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_ex/catalogue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_ex/class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_ex/inventory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_ex/storage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_ex/town.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_ex/vehicle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_ex/weapon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,12 +76,14 @@
     "Python.bread_factory.executor": "Run",
     "Python.calculate_rectangle_area.executor": "Run",
     "Python.calculations.executor": "Run",
+    "Python.catalogue.executor": "Run",
     "Python.centuries_to_minutes.executor": "Run",
     "Python.characters_in_range.executor": "Run",
     "Python.chars_to_string.executor": "Run",
     "Python.chat_codes.executor": "Debug",
     "Python.christmas_spirit.executor": "Run",
     "Python.circle_ex.executor": "Run",
+    "Python.class.executor": "Run",
     "Python.comment.executor": "Run",
     "Python.convert_meters_to_kilometers.executor": "Run",
     "Python.counter_strike.executor": "Debug",
@@ -100,6 +112,7 @@
     "Python.hello_france.executor": "Run",
     "Python.how_much_coffee_do_you_need.executor": "Debug",
     "Python.integer_operations.executor": "Run",
+    "Python.inventory.executor": "Run",
     "Python.invert_values.executor": "Debug",
     "Python.jenny_secret_message.executor": "Run",
     "Python.largest_of_three_numbers.executor": "Debug",
@@ -151,6 +164,7 @@
     "Python.sorting_names.executor": "Debug",
     "Python.space_travel.executor": "Run",
     "Python.special_numbers.executor": "Debug",
+    "Python.storage.executor": "Run",
     "Python.strange_zoo.executor": "Run",
     "Python.string_pureness.executor": "Run",
     "Python.sum_of_chars.executor": "Run",
@@ -158,10 +172,13 @@
     "Python.the_lift.executor": "Debug",
     "Python.the_office.executor": "Debug",
     "Python.to_do_list.executor": "Debug",
+    "Python.town.executor": "Run",
     "Python.trains.executor": "Debug",
     "Python.treasure_hunt.executor": "Debug",
     "Python.triples_of_latin_letters.executor": "Run",
+    "Python.vehicle.executor": "Run",
     "Python.water_overflow.executor": "Debug",
+    "Python.weapon.executor": "Debug",
     "Python.which_are_in.executor": "Debug",
     "Python.word_filter.executor": "Debug",
     "Python.word_reverse.executor": "Run",
@@ -177,8 +194,8 @@
   <component name="PyDebuggerOptionsProvider">
     <option name="myAttachProcessFilter" value="py" />
   </component>
-  <component name="RunManager" selected="Python.circle_ex">
-    <configuration name="circle_ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.vehicle">
+    <configuration name="catalogue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonFundamentals" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,11 +204,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_l" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_l/circle_ex.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_ex/catalogue.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonFundamentals" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_ex" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_ex/class.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,7 +261,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex_comment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="inventory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonFundamentals" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -231,11 +270,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_l" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_l/ex_comment.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_ex/inventory.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,7 +283,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex_email" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="town" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonFundamentals" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -253,11 +292,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_l" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_l/ex_email.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_ex/town.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,7 +305,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="party" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="vehicle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonFundamentals" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -275,33 +314,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_l" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_l/party.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="zoo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonFundamentals" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_l" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_l/zoo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_ex/vehicle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -312,19 +329,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.counter_strike" />
-      <item itemvalue="Python.circle_ex" />
-      <item itemvalue="Python.ex_email" />
-      <item itemvalue="Python.zoo" />
-      <item itemvalue="Python.ex_comment" />
-      <item itemvalue="Python.party" />
+      <item itemvalue="Python.class" />
+      <item itemvalue="Python.inventory" />
+      <item itemvalue="Python.vehicle" />
+      <item itemvalue="Python.catalogue" />
+      <item itemvalue="Python.town" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.circle_ex" />
-        <item itemvalue="Python.zoo" />
-        <item itemvalue="Python.ex_email" />
-        <item itemvalue="Python.party" />
-        <item itemvalue="Python.ex_comment" />
+        <item itemvalue="Python.vehicle" />
+        <item itemvalue="Python.inventory" />
+        <item itemvalue="Python.class" />
+        <item itemvalue="Python.town" />
+        <item itemvalue="Python.catalogue" />
       </list>
     </recent_temporary>
   </component>
@@ -583,7 +600,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761154917248</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="class lab">
+      <option name="closed" value="true" />
+      <created>1761154963816</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1761154963816</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -638,7 +663,8 @@
     <MESSAGE value="list advanced more" />
     <MESSAGE value="exam preparation" />
     <MESSAGE value="exam" />
-    <option name="LAST_COMMIT_MESSAGE" value="exam" />
+    <MESSAGE value="class lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="class lab" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
