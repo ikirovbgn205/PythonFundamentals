@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41aeea4f-1a4a-4523-b1da-ccb683c08590" name="Changes" comment="class lab">
-      <change afterPath="$PROJECT_DIR$/class_ex/articles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_ex/catalogue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_ex/class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_ex/inventory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_ex/storage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_ex/town.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_ex/vehicle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_ex/weapon.py" afterDir="false" />
+    <list default="true" id="41aeea4f-1a4a-4523-b1da-ccb683c08590" name="Changes" comment="class ex">
+      <change afterPath="$PROJECT_DIR$/class_ex/movie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_prep/sum_of_a_beach.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_prep/wolf_in_sheeps_clothing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,6 +116,7 @@
     "Python.maximum_multiple.executor": "Debug",
     "Python.memory_game.executor": "Debug",
     "Python.min_max_and_sum.executor": "Run",
+    "Python.movie.executor": "Run",
     "Python.moving_target.executor": "Debug",
     "Python.multiples_list.executor": "Run",
     "Python.mutate_strings.executor": "Run",
@@ -167,6 +163,7 @@
     "Python.storage.executor": "Run",
     "Python.strange_zoo.executor": "Run",
     "Python.string_pureness.executor": "Run",
+    "Python.sum_of_a_beach.executor": "Run",
     "Python.sum_of_chars.executor": "Run",
     "Python.survival_of_the_biggest.executor": "Run",
     "Python.the_lift.executor": "Debug",
@@ -180,6 +177,7 @@
     "Python.water_overflow.executor": "Debug",
     "Python.weapon.executor": "Debug",
     "Python.which_are_in.executor": "Debug",
+    "Python.wolf_in_sheeps_clothing.executor": "Run",
     "Python.word_filter.executor": "Debug",
     "Python.word_reverse.executor": "Run",
     "Python.zoo.executor": "Run",
@@ -194,51 +192,7 @@
   <component name="PyDebuggerOptionsProvider">
     <option name="myAttachProcessFilter" value="py" />
   </component>
-  <component name="RunManager" selected="Python.vehicle">
-    <configuration name="catalogue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonFundamentals" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_ex" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_ex/catalogue.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonFundamentals" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_ex" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_ex/class.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.sum_of_a_beach">
     <configuration name="counter_strike" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PythonFundamentals" />
       <option name="ENV_FILES" value="" />
@@ -283,7 +237,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="town" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="movie" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonFundamentals" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -296,7 +250,29 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_ex/town.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_ex/movie.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sum_of_a_beach" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonFundamentals" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_prep" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam_prep/sum_of_a_beach.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -327,21 +303,43 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="wolf_in_sheeps_clothing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonFundamentals" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_prep" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam_prep/wolf_in_sheeps_clothing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.counter_strike" />
-      <item itemvalue="Python.class" />
+      <item itemvalue="Python.movie" />
+      <item itemvalue="Python.sum_of_a_beach" />
+      <item itemvalue="Python.wolf_in_sheeps_clothing" />
       <item itemvalue="Python.inventory" />
       <item itemvalue="Python.vehicle" />
-      <item itemvalue="Python.catalogue" />
-      <item itemvalue="Python.town" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sum_of_a_beach" />
+        <item itemvalue="Python.wolf_in_sheeps_clothing" />
+        <item itemvalue="Python.movie" />
         <item itemvalue="Python.vehicle" />
         <item itemvalue="Python.inventory" />
-        <item itemvalue="Python.class" />
-        <item itemvalue="Python.town" />
-        <item itemvalue="Python.catalogue" />
       </list>
     </recent_temporary>
   </component>
@@ -608,7 +606,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761154963816</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="class ex">
+      <option name="closed" value="true" />
+      <created>1761408090089</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1761408090089</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -664,7 +670,8 @@
     <MESSAGE value="exam preparation" />
     <MESSAGE value="exam" />
     <MESSAGE value="class lab" />
-    <option name="LAST_COMMIT_MESSAGE" value="class lab" />
+    <MESSAGE value="class ex" />
+    <option name="LAST_COMMIT_MESSAGE" value="class ex" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -723,6 +730,11 @@
           <url>file://$PROJECT_DIR$/class_l/circle_ex.py</url>
           <line>16</line>
           <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exam_prep/sum_of_a_beach.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="52" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
