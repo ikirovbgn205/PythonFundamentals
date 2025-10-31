@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41aeea4f-1a4a-4523-b1da-ccb683c08590" name="Changes" comment="more ex">
+      <change afterPath="$PROJECT_DIR$/dictionary_l/statistics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary_l/stock.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dicts_lab.py" beforeDir="false" afterPath="$PROJECT_DIR$/dicts_lab.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicts_lab.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary_l/dicts_lab.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,6 +165,8 @@
     "Python.sorting_names.executor": "Debug",
     "Python.space_travel.executor": "Run",
     "Python.special_numbers.executor": "Debug",
+    "Python.statistics.executor": "Run",
+    "Python.stock.executor": "Run",
     "Python.storage.executor": "Run",
     "Python.strange_zoo.executor": "Run",
     "Python.string_pureness.executor": "Run",
@@ -195,7 +199,12 @@
   <component name="PyDebuggerOptionsProvider">
     <option name="myAttachProcessFilter" value="py" />
   </component>
-  <component name="RunManager" selected="Python.dicts_lab">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dictionary_l" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.statistics">
     <configuration name="balanced_brackets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonFundamentals" />
       <option name="ENV_FILES" value="" />
@@ -275,7 +284,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dicts_lab.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary_l/dicts_lab.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -284,7 +293,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exchange_integers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="statistics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonFundamentals" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -293,11 +302,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_prep" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dictionary_l" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam_prep/exchange_integers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary_l/statistics.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -306,7 +315,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prime_number_checker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="stock" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonFundamentals" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -315,11 +324,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_prep" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dictionary_l" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam_prep/prime_number_checker.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary_l/stock.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -330,19 +339,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.counter_strike" />
+      <item itemvalue="Python.statistics" />
+      <item itemvalue="Python.stock" />
       <item itemvalue="Python.balanced_brackets" />
       <item itemvalue="Python.decrypting_messages" />
       <item itemvalue="Python.dicts_lab" />
-      <item itemvalue="Python.exchange_integers" />
-      <item itemvalue="Python.prime_number_checker" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.statistics" />
+        <item itemvalue="Python.stock" />
         <item itemvalue="Python.dicts_lab" />
         <item itemvalue="Python.balanced_brackets" />
         <item itemvalue="Python.decrypting_messages" />
-        <item itemvalue="Python.prime_number_checker" />
-        <item itemvalue="Python.exchange_integers" />
       </list>
     </recent_temporary>
   </component>
@@ -633,7 +642,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761912444264</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="more ex">
+      <option name="closed" value="true" />
+      <created>1761913012974</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1761913012974</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -755,6 +772,11 @@
           <url>file://$PROJECT_DIR$/exam_prep/balanced_brackets.py</url>
           <line>11</line>
           <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dictionary_l/statistics.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="55" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
