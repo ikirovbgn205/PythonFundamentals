@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41aeea4f-1a4a-4523-b1da-ccb683c08590" name="Changes" comment="more ex">
-      <change afterPath="$PROJECT_DIR$/dictionary_ex/legendary_farming.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionary_ex/orders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary_ex/company_users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary_ex/courses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary_ex/softuni_parking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary_ex/student_academy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -140,7 +142,7 @@
     "Python.odd_and_even_sum.executor": "Debug",
     "Python.odd_occurrences.executor": "Run",
     "Python.office_chairs.executor": "Debug",
-    "Python.orders.executor": "Debug",
+    "Python.orders.executor": "Run",
     "Python.palindrome_integers.executor": "Run",
     "Python.palindrome_strings.executor": "Run",
     "Python.party.executor": "Debug",
@@ -165,6 +167,7 @@
     "Python.smallest_of_three_numbers.executor": "Run",
     "Python.snowballs.executor": "Debug",
     "Python.softuni_course_planning.executor": "Run",
+    "Python.softuni_parking.executor": "Debug",
     "Python.softuni_reception.executor": "Run",
     "Python.sorted.executor": "Run",
     "Python.sorting_hat.executor": "Debug",
@@ -176,6 +179,7 @@
     "Python.storage.executor": "Run",
     "Python.strange_zoo.executor": "Run",
     "Python.string_pureness.executor": "Run",
+    "Python.student_academy.executor": "Run",
     "Python.students.executor": "Run",
     "Python.sum_of_a_beach.executor": "Run",
     "Python.sum_of_chars.executor": "Run",
@@ -212,8 +216,8 @@
       <recent name="$PROJECT_DIR$/dictionary_l" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.orders">
-    <configuration name="a_miner_task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.company_users">
+    <configuration name="company_users" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonFundamentals" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -226,29 +230,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary_ex/a_miner_task.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="capitals" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonFundamentals" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dictionary_ex" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary_ex/capitals.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary_ex/company_users.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -279,7 +261,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="legendary_farming" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="courses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonFundamentals" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -292,7 +274,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary_ex/legendary_farming.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary_ex/courses.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -323,7 +305,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="phonebook" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="softuni_parking" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonFundamentals" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -336,7 +318,29 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary_ex/phonebook.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary_ex/softuni_parking.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="student_academy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonFundamentals" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dictionary_ex" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary_ex/student_academy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -347,19 +351,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.counter_strike" />
-      <item itemvalue="Python.legendary_farming" />
+      <item itemvalue="Python.company_users" />
+      <item itemvalue="Python.courses" />
+      <item itemvalue="Python.softuni_parking" />
+      <item itemvalue="Python.student_academy" />
       <item itemvalue="Python.orders" />
-      <item itemvalue="Python.a_miner_task" />
-      <item itemvalue="Python.capitals" />
-      <item itemvalue="Python.phonebook" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.company_users" />
+        <item itemvalue="Python.student_academy" />
+        <item itemvalue="Python.courses" />
+        <item itemvalue="Python.softuni_parking" />
         <item itemvalue="Python.orders" />
-        <item itemvalue="Python.legendary_farming" />
-        <item itemvalue="Python.phonebook" />
-        <item itemvalue="Python.capitals" />
-        <item itemvalue="Python.a_miner_task" />
       </list>
     </recent_temporary>
   </component>
@@ -682,7 +686,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762277564023</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="more ex">
+      <option name="closed" value="true" />
+      <created>1762288340949</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1762288340949</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -809,11 +821,6 @@
           <url>file://$PROJECT_DIR$/dictionary_l/statistics.py</url>
           <line>5</line>
           <option name="timeStamp" value="55" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/dictionary_ex/orders.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="57" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
