@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41aeea4f-1a4a-4523-b1da-ccb683c08590" name="Changes" comment="more ex">
-      <change afterPath="$PROJECT_DIR$/dictionary_ex/force_book.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionary_ex/softuni_exam_results.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text_processing_ex/caesar_cipher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text_processing_ex/character_multiplier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text_processing_ex/emoticon_finder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text_processing_ex/extract_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text_processing_ex/letters_change_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text_processing_ex/replace_repeating_chars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text_processing_ex/string_explosion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text_processing_ex/valid_usernames.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text_processing_l/digits_letters_and_other.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text_processing_l/repeat_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text_processing_l/reverse_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text_processing_l/substring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text_processing_l/text_filter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="41aeea4f-1a4a-4523-b1da-ccb683c08590" name="Changes" comment="more ex" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -175,6 +158,7 @@
     "Python.prime_number_checker.executor": "Run",
     "Python.print_part_of_the_ascii_table.executor": "Run",
     "Python.quest_in_the_woods.executor": "Run",
+    "Python.rage_quit.executor": "Run",
     "Python.registration.executor": "Run",
     "Python.repeat_string.executor": "Run",
     "Python.replace_repeating_chars.executor": "Debug",
@@ -221,6 +205,7 @@
     "Python.water_overflow.executor": "Debug",
     "Python.weapon.executor": "Debug",
     "Python.which_are_in.executor": "Debug",
+    "Python.winning_ticket.executor": "Run",
     "Python.wolf_in_sheeps_clothing.executor": "Run",
     "Python.word_filter.executor": "Debug",
     "Python.word_reverse.executor": "Run",
@@ -243,29 +228,7 @@
       <recent name="$PROJECT_DIR$/dictionary_l" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.letters_change_numbers">
-    <configuration name="caesar_cipher" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonFundamentals" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/text_processing_ex" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text_processing_ex/caesar_cipher.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.winning_ticket">
     <configuration name="counter_strike" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PythonFundamentals" />
       <option name="ENV_FILES" value="" />
@@ -288,28 +251,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="emoticon_finder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonFundamentals" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/text_processing_ex" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text_processing_ex/emoticon_finder.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="letters_change_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonFundamentals" />
       <option name="ENV_FILES" value="" />
@@ -324,6 +265,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text_processing_ex/letters_change_numbers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rage_quit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonFundamentals" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/text_processing_ex" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text_processing_ex/rage_quit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -376,21 +339,43 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="winning_ticket" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonFundamentals" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/text_processing_ex" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text_processing_ex/winning_ticket.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.counter_strike" />
+      <item itemvalue="Python.rage_quit" />
+      <item itemvalue="Python.winning_ticket" />
       <item itemvalue="Python.letters_change_numbers" />
       <item itemvalue="Python.string_explosion" />
-      <item itemvalue="Python.caesar_cipher" />
-      <item itemvalue="Python.emoticon_finder" />
       <item itemvalue="Python.replace_repeating_chars" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.winning_ticket" />
+        <item itemvalue="Python.rage_quit" />
         <item itemvalue="Python.letters_change_numbers" />
         <item itemvalue="Python.string_explosion" />
         <item itemvalue="Python.replace_repeating_chars" />
-        <item itemvalue="Python.emoticon_finder" />
-        <item itemvalue="Python.caesar_cipher" />
       </list>
     </recent_temporary>
   </component>
@@ -729,7 +714,23 @@
       <option name="project" value="LOCAL" />
       <updated>1762548228534</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="more ex">
+      <option name="closed" value="true" />
+      <created>1763205093510</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1763205093510</updated>
+    </task>
+    <task id="LOCAL-00042" summary="more ex">
+      <option name="closed" value="true" />
+      <created>1763208122306</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1763208122306</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -856,11 +857,6 @@
           <url>file://$PROJECT_DIR$/dictionary_l/statistics.py</url>
           <line>5</line>
           <option name="timeStamp" value="55" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/text_processing_ex/letters_change_numbers.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="66" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
