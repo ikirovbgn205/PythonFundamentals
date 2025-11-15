@@ -5,10 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41aeea4f-1a4a-4523-b1da-ccb683c08590" name="Changes" comment="more ex">
-      <change afterPath="$PROJECT_DIR$/dictionary_ex/company_users.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionary_ex/courses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionary_ex/softuni_parking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionary_ex/student_academy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary_ex/force_book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary_ex/softuni_exam_results.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text_processing_ex/caesar_cipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text_processing_ex/character_multiplier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text_processing_ex/emoticon_finder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text_processing_ex/extract_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text_processing_ex/letters_change_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text_processing_ex/replace_repeating_chars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text_processing_ex/string_explosion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text_processing_ex/valid_usernames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text_processing_l/digits_letters_and_other.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text_processing_l/repeat_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text_processing_l/reverse_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text_processing_l/substring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text_processing_l/text_filter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,11 +84,13 @@
     "Python.ascii_values.executor": "Run",
     "Python.balanced_brackets.executor": "Debug",
     "Python.bread_factory.executor": "Run",
+    "Python.caesar_cipher.executor": "Run",
     "Python.calculate_rectangle_area.executor": "Run",
     "Python.calculations.executor": "Run",
     "Python.capitals.executor": "Run",
     "Python.catalogue.executor": "Run",
     "Python.centuries_to_minutes.executor": "Run",
+    "Python.character_multiplier.executor": "Run",
     "Python.characters_in_range.executor": "Run",
     "Python.chars_to_string.executor": "Run",
     "Python.chat_codes.executor": "Debug",
@@ -85,6 +98,7 @@
     "Python.circle_ex.executor": "Run",
     "Python.class.executor": "Run",
     "Python.comment.executor": "Run",
+    "Python.company_users.executor": "Run",
     "Python.convert_meters_to_kilometers.executor": "Run",
     "Python.count_chars_in_a_string.executor": "Run",
     "Python.counter_strike.executor": "Debug",
@@ -94,6 +108,7 @@
     "Python.decrypting_messages.executor": "Run",
     "Python.destination_mapper.executor": "Run",
     "Python.dicts_lab.executor": "Run",
+    "Python.digits_letters_and_other.executor": "Run",
     "Python.double_char.executor": "Debug",
     "Python.drink_something.executor": "Debug",
     "Python.easter_bread.executor": "Debug",
@@ -101,15 +116,18 @@
     "Python.electron_distribution.executor": "Debug",
     "Python.elevator.executor": "Debug",
     "Python.email.executor": "Debug",
+    "Python.emoticon_finder.executor": "Run",
     "Python.even_numbers.executor": "Debug",
     "Python.ex.executor": "Debug",
     "Python.ex_email.executor": "Run",
     "Python.exchange_integers.executor": "Run",
+    "Python.extract_file.executor": "Run",
     "Python.factorial_division.executor": "Debug",
     "Python.faro_shuffle.executor": "Run",
     "Python.find_the_capitals.executor": "Run",
     "Python.find_the_largest.executor": "Run",
     "Python.football_cards.executor": "Run",
+    "Python.force_book.executor": "Run",
     "Python.gladiator_expenses.executor": "Run",
     "Python.grades.executor": "Run",
     "Python.group_of_10_s.executor": "Debug",
@@ -121,6 +139,7 @@
     "Python.jenny_secret_message.executor": "Run",
     "Python.largest_of_three_numbers.executor": "Debug",
     "Python.legendary_farming.executor": "Run",
+    "Python.letters_change_numbers.executor": "Debug",
     "Python.list_statistics.executor": "Run",
     "Python.loading_bar.executor": "Run",
     "Python.maximum_multiple.executor": "Debug",
@@ -158,6 +177,8 @@
     "Python.quest_in_the_woods.executor": "Run",
     "Python.registration.executor": "Run",
     "Python.repeat_string.executor": "Run",
+    "Python.replace_repeating_chars.executor": "Debug",
+    "Python.reverse_string.executor": "Run",
     "Python.rounding.executor": "Run",
     "Python.school_library.executor": "Debug",
     "Python.search.executor": "Debug",
@@ -167,6 +188,7 @@
     "Python.smallest_of_three_numbers.executor": "Run",
     "Python.snowballs.executor": "Debug",
     "Python.softuni_course_planning.executor": "Run",
+    "Python.softuni_exam_results.executor": "Run",
     "Python.softuni_parking.executor": "Debug",
     "Python.softuni_reception.executor": "Run",
     "Python.sorted.executor": "Run",
@@ -178,12 +200,15 @@
     "Python.stock.executor": "Debug",
     "Python.storage.executor": "Run",
     "Python.strange_zoo.executor": "Run",
+    "Python.string_explosion.executor": "Debug",
     "Python.string_pureness.executor": "Run",
     "Python.student_academy.executor": "Run",
     "Python.students.executor": "Run",
+    "Python.substring.executor": "Run",
     "Python.sum_of_a_beach.executor": "Run",
     "Python.sum_of_chars.executor": "Run",
     "Python.survival_of_the_biggest.executor": "Run",
+    "Python.text_filter.executor": "Run",
     "Python.the_lift.executor": "Debug",
     "Python.the_office.executor": "Debug",
     "Python.to_do_list.executor": "Debug",
@@ -191,6 +216,7 @@
     "Python.trains.executor": "Debug",
     "Python.treasure_hunt.executor": "Debug",
     "Python.triples_of_latin_letters.executor": "Run",
+    "Python.valid_usernames.executor": "Run",
     "Python.vehicle.executor": "Run",
     "Python.water_overflow.executor": "Debug",
     "Python.weapon.executor": "Debug",
@@ -205,7 +231,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/ikirovbgn/PycharmProjects/PythonFundamentals",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
   <component name="PyDebuggerOptionsProvider">
@@ -213,11 +239,12 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/text_processing_ex" />
       <recent name="$PROJECT_DIR$/dictionary_l" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.company_users">
-    <configuration name="company_users" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.letters_change_numbers">
+    <configuration name="caesar_cipher" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonFundamentals" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -226,11 +253,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dictionary_ex" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/text_processing_ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary_ex/company_users.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text_processing_ex/caesar_cipher.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -261,7 +288,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="courses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="emoticon_finder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonFundamentals" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -270,11 +297,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dictionary_ex" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/text_processing_ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary_ex/courses.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text_processing_ex/emoticon_finder.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -283,7 +310,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="orders" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="letters_change_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonFundamentals" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -292,11 +319,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dictionary_ex" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/text_processing_ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary_ex/orders.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text_processing_ex/letters_change_numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -305,7 +332,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="softuni_parking" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="replace_repeating_chars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonFundamentals" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -314,11 +341,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dictionary_ex" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/text_processing_ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary_ex/softuni_parking.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text_processing_ex/replace_repeating_chars.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -327,7 +354,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="student_academy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="string_explosion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonFundamentals" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -336,11 +363,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dictionary_ex" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/text_processing_ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary_ex/student_academy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text_processing_ex/string_explosion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -351,19 +378,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.counter_strike" />
-      <item itemvalue="Python.company_users" />
-      <item itemvalue="Python.courses" />
-      <item itemvalue="Python.softuni_parking" />
-      <item itemvalue="Python.student_academy" />
-      <item itemvalue="Python.orders" />
+      <item itemvalue="Python.letters_change_numbers" />
+      <item itemvalue="Python.string_explosion" />
+      <item itemvalue="Python.caesar_cipher" />
+      <item itemvalue="Python.emoticon_finder" />
+      <item itemvalue="Python.replace_repeating_chars" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.company_users" />
-        <item itemvalue="Python.student_academy" />
-        <item itemvalue="Python.courses" />
-        <item itemvalue="Python.softuni_parking" />
-        <item itemvalue="Python.orders" />
+        <item itemvalue="Python.letters_change_numbers" />
+        <item itemvalue="Python.string_explosion" />
+        <item itemvalue="Python.replace_repeating_chars" />
+        <item itemvalue="Python.emoticon_finder" />
+        <item itemvalue="Python.caesar_cipher" />
       </list>
     </recent_temporary>
   </component>
@@ -694,7 +721,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762288340949</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="more ex">
+      <option name="closed" value="true" />
+      <created>1762548228534</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1762548228534</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -821,6 +856,11 @@
           <url>file://$PROJECT_DIR$/dictionary_l/statistics.py</url>
           <line>5</line>
           <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/text_processing_ex/letters_change_numbers.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="66" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
