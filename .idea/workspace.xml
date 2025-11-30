@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41aeea4f-1a4a-4523-b1da-ccb683c08590" name="Changes" comment="more ex">
+      <change afterPath="$PROJECT_DIR$/final_exam/diction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_exam/lost_artifacts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_exam/password_validator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_prep/registration.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam_prep/registration.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +67,7 @@
     "Python.a_miner_task.executor": "Run",
     "Python.absolute_values.executor": "Run",
     "Python.add_and_subtract.executor": "Run",
+    "Python.ahha.executor": "Run",
     "Python.anonymous_threat.executor": "Run",
     "Python.array_modifier.executor": "Debug",
     "Python.ascii_values.executor": "Run",
@@ -93,6 +96,7 @@
     "Python.decipher_this.executor": "Debug",
     "Python.decrypting_messages.executor": "Run",
     "Python.destination_mapper.executor": "Run",
+    "Python.dictionar.executor": "Run",
     "Python.dicts_lab.executor": "Run",
     "Python.digits_letters_and_other.executor": "Run",
     "Python.double_char.executor": "Debug",
@@ -128,6 +132,7 @@
     "Python.letters_change_numbers.executor": "Debug",
     "Python.list_statistics.executor": "Run",
     "Python.loading_bar.executor": "Run",
+    "Python.lost_artifacts.executor": "Debug",
     "Python.match_dates.executor": "Run",
     "Python.match_full_name.executor": "Run",
     "Python.match_phone_number.executor": "Run",
@@ -234,7 +239,29 @@
       <recent name="$PROJECT_DIR$/dictionary_l" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.registration">
+  <component name="RunManager" selected="Python.ahha">
+    <configuration name="ahha" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonFundamentals" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ahha.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="counter_strike" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PythonFundamentals" />
       <option name="ENV_FILES" value="" />
@@ -257,7 +284,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="match_dates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="diction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonFundamentals" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -266,11 +293,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/regular_expressions_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/final_exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regular_expressions_lab/match_dates.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/final_exam/diction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -279,7 +306,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="match_full_name" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lost_artifacts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonFundamentals" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -288,11 +315,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/regular_expressions_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/final_exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regular_expressions_lab/match_full_name.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/final_exam/lost_artifacts.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -301,7 +328,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="match_phone_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="password_validator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonFundamentals" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -310,11 +337,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/regular_expressions_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/final_exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regular_expressions_lab/match_phone_number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/final_exam/password_validator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -345,43 +372,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="winning_ticket" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonFundamentals" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/text_processing_ex" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text_processing_ex/winning_ticket.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.counter_strike" />
+      <item itemvalue="Python.ahha" />
+      <item itemvalue="Python.dictionar" />
+      <item itemvalue="Python.lost_artifacts" />
+      <item itemvalue="Python.password_validator" />
       <item itemvalue="Python.registration" />
-      <item itemvalue="Python.match_dates" />
-      <item itemvalue="Python.match_full_name" />
-      <item itemvalue="Python.match_phone_number" />
-      <item itemvalue="Python.winning_ticket" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ahha" />
+        <item itemvalue="Python.password_validator" />
+        <item itemvalue="Python.lost_artifacts" />
+        <item itemvalue="Python.dictionar" />
         <item itemvalue="Python.registration" />
-        <item itemvalue="Python.match_dates" />
-        <item itemvalue="Python.match_phone_number" />
-        <item itemvalue="Python.match_full_name" />
-        <item itemvalue="Python.winning_ticket" />
       </list>
     </recent_temporary>
   </component>
@@ -744,7 +749,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763223518451</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="more ex">
+      <option name="closed" value="true" />
+      <created>1764009795137</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1764009795137</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -866,6 +879,11 @@
           <url>file://$PROJECT_DIR$/dictionary_l/statistics.py</url>
           <line>5</line>
           <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/final_exam/password_validator.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="64" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
